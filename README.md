@@ -179,6 +179,14 @@ Este projeto pode ser utilizado como material de apoio em disciplinas como:
 * Ciência de Dados
 
 ---
+## Modelo de Dados (Grafo)
+
+O diagrama abaixo representa os principais nós e relacionamentos utilizados no sistema de recomendação de músicas.
+
+<p align="center">
+  <img src="Nós_do_projeto_NEO4J.png" width="800">
+</p>
+
 
 # 👨‍💻 Autor
 
